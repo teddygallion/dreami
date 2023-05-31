@@ -1,0 +1,14 @@
+.MostRecent{
+	margin-top: 2%;
+	background-color: lightgrey;
+	float:left;
+	width:80%;
+}
+.MostRecent > h2{
+	text-align: center;
+}
+.dream-body {
+	width :80%;
+	margin:auto;
+	padding-bottom:5%;
+}

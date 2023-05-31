@@ -1,0 +1,18 @@
+nav{
+	background-color:darkgrey;
+
+}
+h1{
+	text-align: center;
+}
+.nav-ul{
+	list-style-type:none;
+	display:inline-flex;
+
+}
+.nav-ul > li{
+	padding-right: 10px;
+}
+.nav-link:hover{
+	color:green;
+}

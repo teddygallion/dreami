@@ -1,0 +1,26 @@
+.Sidebar{
+	background-color:lightgrey;
+	color:navy;
+	float:right;
+	margin-top:2%;
+
+
+}
+.Sidebar > h2{
+	color:black;
+	text-align: center;
+}
+ul{
+	list-style-type: none;
+
+}
+.sidebar-options{
+	background-color: darkgrey;
+	color:black;
+	box-shadow: black;
+}
+.sidebar-options > a{
+	display: inline-block;
+	padding: 10px;
+	text-align:center;
+}
